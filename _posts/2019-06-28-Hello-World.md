@@ -3,7 +3,7 @@ layout: post
 title: Check-check, one, two, three?
 ---
 
-## Sup!
+## First post goes here.
 
 It's a natural thing to put `hello world` here, isn't it?
 
@@ -28,6 +28,8 @@ Ok, nothing specific for tomorrow, travelling to meet a friend and listen to a c
 Still, need to finish the damn bloody tax declaration :)
 
 Also bring the paper reading backlog into order and *maybe* publish it somewhere around here as well.
+
+Formulate and try a code kata on `fairseq` experimentation process.
 
 Help some friend with his struggles with pandas code.
 
