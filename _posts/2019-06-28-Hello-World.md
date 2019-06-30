@@ -14,6 +14,8 @@ Maybe I try experimenting in agile way. With dailies and retrospectives.
 
 Ok, here goes a very late daily standup part:
 
+<!--more-->
+
 ### What did I do today?
 
 * Some updates on a luigi-based ML data pipeline. Mostly improved the data preparation procedure and validated it against gut-feeling expectations and common sense numbers.
