@@ -56,6 +56,8 @@ __Amiprint__, *Software developer*
 
 `Development stacks` Python (pipenv, flask, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Scala (akka, functional programming)
 
+`Process tooling` Git, DVC, Jira, Confluence
+
 `OPS and Automation` Docker, Ansible, Terraform, AWS, Debian family of Linux
 
 `Data technologies` Spark, Dask, RabbitMQ, Distributed storage (HDFS, S3, Ceph)
@@ -64,6 +66,11 @@ __Amiprint__, *Software developer*
 
 `Deep learning` Sequential models (seq2seq, language models, fairseq), Reinforcement learning (world models, multi-agent environments)
 
+`Working paradigms` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimenting
+
+`Languages` Russian (native), English (working proficiency), German (beginner), Japanese (beginner)
+
+`Just a fan of` Vim, tmux, zsh, systemd, tabs, rust programming language, game theory.
 
 ## Education
 
