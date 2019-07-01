@@ -9,7 +9,8 @@ It's a natural thing to put `hello world` here, isn't it?
 
 ## Why is it here?
 
-Too many things I stumble upon and want to remember, reiterate upon and potentially share. Just another experiment, let's see if it works.
+Too many things I stumble upon and want to remember, reiterate upon and potentially share. Just another experiment, let's see if it works. Will push it for 21 day, then will either drop or make it more consistent and professional.
+
 Maybe I try experimenting in agile way. With dailies and retrospectives.
 
 Ok, here goes a very late daily standup part:
