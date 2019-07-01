@@ -68,7 +68,7 @@ __Amiprint__, *Software developer*
 
 `Deep learning` Sequential models (seq2seq, language models, fairseq), Reinforcement learning (world models, multi-agent environments)
 
-`Working paradigms` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimenting
+`Methodologies` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimenting
 
 `Languages` Russian (native), English (working proficiency), German (beginner), Japanese (beginner)
 
