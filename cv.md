@@ -90,16 +90,19 @@ Worked on particle accelerator electromagnetic field configuration improvement i
 
 ## Certificates
 
-`2007 - 2013`
-*Microsoft certified professional*, multiple certificates on SQL Server administration and .NET development
 
-*Sun certifications*, SCWCD, SCBCD, SCJP
+`MCP` Multiple Microsoft certifications on SQL Server administration and .NET development
 
-*Certified PostgreSQL Associate*
+`Sun certifications` SCWCD, SCBCD, SCJP
 
-*Various MOOCS*, including: 
-* machine learning (Andrew Ng's and Advanced machine learning from Coursera)
-* deep learning (NLP and deep reinforcement learning from Udacity).
+`PostgreSQL` Certified PostgreSQL associate
+
+`Various MOOCS` Including: 
+* Machine learning (Andrew Ng's and Advanced machine learning by Coursera)
+* Deep learning (NLP and deep reinforcement learning from Udacity)
+* Game theory specification by Coursera
+* Financial markets by Coursera
+* Data mining by Coursera
 
 
 
