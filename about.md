@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Doing things with data for money. Also for fun, but mostly for money.
@@ -20,6 +20,7 @@ Doing things with data for money. Also for fun, but mostly for money.
 * Not an ML expert, but can build you a model and discuss a pac learning framework over a beer.
 * Couldn't resist the deep learning hype, currently jumping between deep reinforcement learning and natural language processing topics.
 * Big fan of ansible, vim and tmux. Cautiously toying with terraform.
+* For a better description jump [here](/cv/).
 
 ### Contact me
 

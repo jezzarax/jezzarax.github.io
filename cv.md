@@ -10,7 +10,7 @@ Data professional
 <div id="webaddress">
 <a href="https://twitter.com/jezzarax">@jezzarax</a>
 | <a href="https://www.linkedin.com/in/alexey-kuntsevich">www.linkedin.com/in/alexey-kuntsevich</a>
-| <a href="https://jezzarax.github.io">jezzarax.github.io</a>
+| <a href="/blog/">jezzarax.github.io</a>
 | <a href="https://goo.gl/maps/jxpZWvSq8uHwnLBC7">Munich area</a>
 </div>
 
