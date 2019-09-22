@@ -36,16 +36,18 @@ __CHECK24__, Munich
 *Data engineer*, worked on the datawarehouse processing insurance contracts data.
 Made data available to data scientists. Supported a team of data scientists in building and deploying of various models.
 
+Worked on a migration from Microsoft BI stack to OSS toolset (PostgreSQL, PyData) in order to provide better experience for data science team.
+
 Drove an end-to-end development of customer behaviour analysis model, including data acquisition, training process optimization and building an interactive visualization dashboard.
 
 `2010 - 2014`
 
 __Apnet LLC (former Amiprint)__, Moscow
 
-*Software developer*, later *Technical leader*. Worked on various public and internal data products for a major international hardware vendor. The deliverables included ETL processes, web dashboards and data management applications. Drove technical processes and excellence in a team of 4 software developers. Introduced continuous integration and testing practices. Improved customer experience by introducing SPA approaches in the product development.
+*Software developer*, later *Technical leader*. Worked on various public and internal data products for a major international hardware vendor. The deliverables included ETL processes, web dashboards and data management applications deployed on top of Microsoft SQL Server and Microsoft BI Suite. Drove technical processes and excellence in a team of 4 software developers. Introduced continuous integration and testing practices. Improved customer experience by introducing SPA approaches in the product development.
 
 `2008 - 2010`
-__Exigen services__, *Datawarehouse developer*
+__Exigen services__, *Datawarehouse developer*. Implemented user stories around integrating data flows from various HRM and ERP systems into a single database, query and SSIS optimizations, OLAP cubes modelling.
 
 `2007 - 2008`
 __Amiprint__, *Software developer*
@@ -54,9 +56,9 @@ __Amiprint__, *Software developer*
 
 ## Skills
 
-`Databases` PostgreSQL, MongoDB, Redis
+`Databases` PostgreSQL, MongoDB, Redis, Microsoft SQL Server.
 
-`Development stacks` Python (pipenv, flask, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Scala (akka, functional programming)
+`Development stacks` Python (pipenv, flask, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Scala (akka, functional programming), Microsoft BI Suite.
 
 `Process tooling` Git, DVC, Jira, Confluence
 
@@ -91,8 +93,9 @@ Worked on particle accelerator electromagnetic field configuration improvement i
 
 ## Certificates
 
+`CSPO` Certified Scrum product owner.
 
-`MCP` Multiple Microsoft certifications on SQL Server administration and .NET development
+`MCP` Multiple Microsoft certifications on SQL Server (development, administration, BI suite) and .NET development
 
 `Sun certifications` SCWCD, SCBCD, SCJP
 
