@@ -32,7 +32,7 @@ Took significant part in hiring process and product team setup definition and im
 
 Ensured and reported a successful delivery of AI-driven sponsored customer acquisition solution which helped the business unit transform their processes from operational and reactive into strategic and numbers-driven. Assisted in defining metrics for all parties and ensured that these metrics are timed, observable, incremental and relevant.
 
-Introduced a framework for structuring and prioritization of data-driven and AI-driven products. Evaluated the applicability and benefits with multiple products of multiple directions and levels of maturity.
+Introduced a framework for feature structuring and prioritization of data-driven and AI-driven products. Evaluated the applicability and benefits with multiple products of multiple directions and levels of maturity.
 
 `2014 - 2016`
 __CHECK24__, Munich
@@ -42,7 +42,7 @@ Enabled a team of data scientists through ensuring availability, accessibility a
 
 Worked on a migration from Microsoft BI stack to OSS toolset (PostgreSQL, PyData) in order to provide better experience for data science team.
 
-Drove an end-to-end development of customer behaviour analysis model, including data acquisition, training process optimization and building an interactive visualization dashboard which helped the business unit in understanding of customer behaviour, and journey and paved the path toward experimentation and optimization of it, increasing conversion rates and improving customer experience.
+Drove an end-to-end development of customer behaviour analysis model (including data acquisition, training process optimization and building an interactive visualization dashboard) that helped the business unit in understanding of customer behaviour, and journey, which paved the path toward experimentation and optimization of it, increasing conversion rates and improving customer experience.
 
 `2010 - 2014`
 
