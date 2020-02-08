@@ -91,18 +91,17 @@ ul {
 	margin-top: -0.5em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "●";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
+	text-indent: -0.6em;
+	/* color: #777; */
 }
 
 li ul {
