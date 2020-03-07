@@ -26,8 +26,8 @@ I understand, that most of it is about me not reading enough about some specific
 
 ### Questionnable pieces
 
-* I really would like to see a smooth transition between a local and a cloud-based environment. Yet, the environment is that heavy, that 12GB of ram and a decent amount of CPU are required just to run the thing to the point my laptop starts melting. Kubernetes is all about microservices, where each microservice is supposed to be independent within its own domain. Even for a cluster with 5 nodes (4CPU*8GB ram) it took about half an hour to make all components up and running, so I could finally get my 2CPU*2GB ram jupyter environment.
-* Even if a data scientist gets a 16 core*64GB ram laptop to run the thing, the complexity of the process is too high to make things smooth. In an ideal world, a data scientist is expected to be great at all three, statistics, coding and business domain, but in real world we have many brilliant data scientists who are not great with programming and hacking pieces, and dealing with VMs and kubernetes would make them sad.
+* I really would like to see a smooth transition between a local and a cloud-based environment. Yet, the environment is that heavy, that 12GB of ram and a decent amount of CPU are required just to run the thing to the point my laptop starts melting. Kubernetes is all about microservices, where each microservice is supposed to be independent within its own domain. Even for a cluster with 5 nodes (4CPU\*8GB ram) it took about half an hour to make all components up and running, so I could finally get my 2CPU\*2GB ram jupyter environment.
+* Even if a data scientist gets a 16 core\*64GB ram laptop to run the thing, the complexity of the process is too high to make things smooth. In an ideal world, a data scientist is expected to be great at all three, statistics, coding and business domain, but in real world we have many brilliant data scientists who are not great with programming and hacking pieces, and dealing with VMs and kubernetes would make them sad.
 
 ### Current state & plans
 
