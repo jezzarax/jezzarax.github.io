@@ -24,13 +24,22 @@ Highly committed and focused in solving business problems through the use of dat
 
 ## Job history
 
+__Allianz SE__, 
+
+`2020 - now`
+
+*Senior Data Scientist*
+
+Growing team technical excellence and data-driven innovation for multiple insurance-oriented projects in complex a cross-branch environment.
+
+* Gradually introduced a number of technologies and development approaches to enable team's process and product scalability. That resulted in smaller development iterations and more reliable delivery of products.
+* Drove smooth migration of data products from an on-premise infrastructure into the cloud while keeping the services uninterrupted.
+* Developed an MLOps application framework which increased the team velocity by streamligning backlog.
+* Made multiple people happy by showing them some cool tech pieces, learned from the others in the meantime.
+
 __Flixbus__, Munich
 
-`2019 - now` 
-
-*Senior data scientist*
-
-`2017 - 2018`
+`2017 - 2020`
 
 *Product owner of data products*
 
