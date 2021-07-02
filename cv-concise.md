@@ -17,9 +17,9 @@ Data products team lead, PhD Candidate in Physics
 
 ## Summary
 
-As a Data professional with more than 13 years of experience in data and artificial intelligence products development, I'm looking for a cross-team leadership role.
-I'v hired, formed and led teams up to 9 members as well as drove team incubation and restructuring efforts to reflect structural business changes. I'm a strong technical professional with a deep knowledge of cloud and big data infrastructure and Python and Rust development stacks.
-I have experience and a strong interest in financial technology. Currently I pursue a certification in financial and investment analysis to strengthen my competencies in the topic.
+As a Data product team lead with more than 13 years of experience in data and artificial intelligence products development, I'm looking for a cross-team leadership role. I've hired, formed and led teams up to 9 members as well as drove team incubation and restructuring efforts to reflect structural business changes. 
+
+Over my career I obtained a deep knowledge of cloud and big data infrastructure and Python and Rust development stacks. My experience and interests lie in financial technology as well, currently I pursue a certification in financial and investment analysis to strengthen my competencies in the topic.
 
 
 ## Job history
@@ -32,7 +32,7 @@ __Allianz SE__,
 
 Growing team technical excellence and data-driven innovation for multiple InsurTech projects in a complex cross-branch environment.
 
-* Transitioned the team into an adoption of a reliable development process with strong measures of success and increased cross-team visibility of achievements.
+* Transitioned the team into an adoption of a sustainable and predictable development process with strong measures of success and increased cross-team visibility of achievements.
 * Through my guidance, mentorship as well as code contributions, the team delivered 2 products to 6 company branches.
 * Drove smooth migration of data products from an on-premise infrastructure into the cloud while keeping the services uninterrupted.
 
