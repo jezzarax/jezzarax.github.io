@@ -17,14 +17,18 @@ Data products team lead, PhD Candidate in Physics
 
 ## Summary
 
-As a Data product team lead with more than 13 years of experience in data and artificial intelligence products development, I'm looking for a cross-team leadership role. I've hired, formed and led teams up to 9 members as well as drove team incubation and restructuring efforts to reflect structural business changes. 
+A professional with 13 years of industry experience in Data- and AI-driven product development, hands-on expertise and understanding of underlying technology of Cloud&Big Data infrastructure, Python and Rust development stacks. I act as a bridge and operate in different roles across various organizational units (teams, departments, chapters).  I've hired, formed and led teams up to 9 members as well as drove team incubation and restructuring efforts to reflect structural business changes. 
 
-Over my career I obtained a deep knowledge of cloud and big data infrastructure and Python and Rust development stacks. My experience and interests lie in financial technology as well, currently I pursue a certification in financial and investment analysis to strengthen my competencies in the topic.
+My experience and interests lie in financial technology as well, currently I pursue a certification in financial and investment analysis to strengthen my competencies in the topic.
+
+I’m looking for a cross-team leadership role aiming to grow teams and portfolio of products they are responsible for.
+
+
 
 
 ## Job history
 
-__Allianz SE__, 
+__Allianz SE__, Munich
 
 `2020 - now`
 
