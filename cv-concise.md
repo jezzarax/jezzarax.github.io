@@ -17,7 +17,7 @@ Data products team lead, PhD Candidate in Physics
 
 ## Summary
 
-A professional with 13 years of industry experience in Data- and AI-driven product development, hands-on expertise and understanding of underlying technology of Cloud&Big Data infrastructure, Python and Rust development stacks. I act as a bridge and operate in different roles across various organizational units (teams, departments, chapters).  I've hired, formed and led teams up to 9 members as well as drove team incubation and restructuring efforts to reflect structural business changes. 
+A professional with 13 years of industry experience in Data- and AI-driven product development, hands-on expertise and understanding of underlying technology of Cloud&Big Data infrastructure, Python and Rust development stacks. I facilitate collaboration between various organizational units to remove silos, bring structural and technological improvements.  I've hired, formed and led teams up to 9 members as well as drove team incubation and restructuring efforts to reflect structural business changes. 
 
 My experience and interests lie in financial technology as well, currently I pursue a certification in financial and investment analysis to strengthen my competencies in the topic.
 
@@ -49,19 +49,20 @@ __Flixbus__, Munich
 
 Leading a 6 people Data Science Team, among my main achievements and tasks are:
 
-* Drove the recruitment, interview and onboarding process, build the whole data science product team from scratch. Drove an incubation process for a second data product team with a goal of decreasing onboarding overhead and newjoiners downtime.
-* Contributed in a major way to defining product goals and vision and success metrics for a large internal strategic marketing automation product.
-* Drove the team to implement the product, which allowed the company to improve the returns of marketing investments by 15%.
+* Leading incubation, definition of mission-statement, resource allocation, recruitment, and onboarding and further mentoring of 2 data science driven teams.
+* Contributed in a major way to defining product goals and vision and success metrics for a large internal strategic marketing automation product. Successful implementation of the product improved the return on marketing spend by 15% initially and grew beyond that later.
 * Speaker for internal and external talks and workshops rising technical and domain awareness in the company.
 
 
 `2014 - 2016`
 __CHECK24__, Munich
 
-*Data engineer*, worked on the data warehouse processing insurance contracts data.
+*Data engineer*, 
 
-* Enabled a team of data scientists through ensuring availability, accessibility and latency of data in internal datasets. Supported a team of data scientists in building, deploying and integration of various models.
-* Worked on a migration from Microsoft BI stack to OSS toolset (PostgreSQL, PyData) in order to provide better experience for data science team.
+Supported a team of data scientists in building, deploying and integration of various models.
+
+* Enabled a team of data scientists through ensuring availability, accessibility and latency of data in internal datasets.
+* Worked on a migration from Microsoft BI stack to OSS toolset (PostgreSQL, PyData) and architectural redesign in order to enable structural decoupling of multiple teams working in the same business domain.
 * Drove an end-to-end development of customer behaviour analysis model (including data acquisition, training process optimization and building an interactive visualization dashboard) that helped the business unit in understanding of customer behaviour, and journey, which paved the path toward experimentation and optimization of it, increasing conversion rates and improving customer experience.
 
 __Apnet LLC (former Amiprint)__, Moscow
