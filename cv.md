@@ -17,9 +17,12 @@ Data professional, PhD Candidate in Physics
 
 ## Summary
 
-Data professional with more than 12 years of experience in data science, machine learning, data engineering and enterprise information system development in fast paced digital companies in Germany and Russia. 
-Consistently succeeded in solving complex analytical, research and automation problems in a proactive and structured way, leading teams with up to 7 members. 
-Highly committed and focused in solving business problems through the use of data modeling and machine learning techniques, managing the complete process from product requirements collection to productivising of the model, as well as the relationship with stakeholders with non-technical background and data science teams, using among others agile development methodologies.
+A professional with 13 years of industry experience in Data- and AI-driven product development, hands-on expertise and understanding of underlying technology of Cloud&Big Data infrastructure, Python and Rust development stacks. I facilitate collaboration between various organizational units to remove silos, bring structural and technological improvements.  I've hired, formed and led teams up to 9 members as well as drove team incubation and restructuring efforts to reflect structural business changes. 
+
+My experience and interests lie in financial technology as well, currently I pursue a certification in financial and investment analysis to strengthen my competencies in the topic.
+
+I’m looking for a challenge of developing and delivering data analytics and data-driven decision assistance solutions.
+
 
 
 ## Job history
@@ -35,15 +38,15 @@ Growing team technical excellence and data-driven innovation for multiple insura
 * Gradually introduced a number of technologies and development approaches to enable team's process and product scalability. That resulted in smaller development iterations and more reliable delivery of products.
 * Drove smooth migration of data products from an on-premise infrastructure into the cloud while keeping the services uninterrupted.
 * Developed an MLOps application framework which increased the team velocity by streamligning backlog.
-* Made multiple people happy by showing them some cool tech pieces, learned from the others in the meantime.
+
 
 __Flixbus__, Munich
 
 `2017 - 2020`
 
-*Product owner of data products*
+*Senior data scientist*
 
-Leading a 6 people Data Science Team, among my main achievements and tasks are:
+Leading a 6 people Data Science Team in Marketing automation domain, among my main achievements and tasks are:
 
 * Successfully led the data-enabled adtech product development from ideation and product vision development to product deployment and continuous improvement cycle, facilitating communication between the team and stakeholders, managing quality and time-to-market during decision making and prioritization processes. 
 * Excelled in delivering an AI-driven sponsored customer acquisition solution which transformed the business unit processes from operational and reactive into strategic and numbers-driven, allowing to improve ROI by 15%.
@@ -90,13 +93,13 @@ Worked on internal data products for a major hardware vendor.
 
 `Databases` PostgreSQL, MongoDB, Redis, Microsoft SQL Server.
 
-`Development stacks` Python (pipenv, flask, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Scala (akka, functional programming), Microsoft BI Suite.
+`Development stacks` Python (poetry, fastapi, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Rust development stack (cargo, rocket).
 
 `Process tooling` Git, DVC, Jira, Confluence
 
 `OPS and Automation` Docker, Ansible, Terraform, Kubernetes, AWS, Debian family of Linux
 
-`Data technologies` Spark, Dask, RabbitMQ, Distributed storage (HDFS, S3, Ceph)
+`Data technologies` Dask, RabbitMQ, Distributed storage (S3, Minio, Azure blob store)
 
 `Machine learning` Bayesian techniques, Time series analysis (xARIMAx, ETS), Hierarchical modeling
 
@@ -104,7 +107,7 @@ Worked on internal data products for a major hardware vendor.
 
 `Methodologies` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimentation
 
-`Languages` Russian (native), English (working proficiency), German (beginner), Japanese (beginner)
+`Languages` Russian (native), English (working proficiency), German (beginner)
 
 `Just a fan of` Vim, tmux, zsh, systemd, tabs, rust programming language, game theory
 
@@ -147,7 +150,7 @@ Worked on particle accelerator electromagnetic field configuration improvement i
 
 <!-- ### Footer
 
-Last updated: February 2020 -->
+Last updated: August 2021 -->
 
 
 
