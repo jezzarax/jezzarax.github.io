@@ -98,17 +98,17 @@ Worked on various public and internal data products for a major international ha
 
 ## Education
 
-`2003 - 2009`
-__Nizhny Novgorod State university__
-
-Diploma in physics on the topic of vacuum electrodynamics.
-
 `2012 - 2017`
 __Nizhny Novgorod State university__
 
 PhD student on the topic of vacuum electrodynamics in particle accelerators.
 
 Worked on particle accelerator electromagnetic field configuration improvement in order to achieve better electronic beam precision and focus by reducing harmful effects of beam oscillation.
+
+`2003 - 2009`
+__Nizhny Novgorod State university__
+
+Diploma in physics on the topic of vacuum electrodynamics.
 
 
 ## Certificates
