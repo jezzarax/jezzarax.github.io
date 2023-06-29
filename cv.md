@@ -28,9 +28,8 @@ __Allianz SE__,
 
 *Language model engineer*
 
-I play a crucial role in enabling insurance-specific products and product features by utilizing advanced language models and multimodal models. My responsibilities include:
-
 * Fine-tuning models for specific domains: I've refined and fine-tuned language models to adapt to a particular area of knowledge and vocabulary, noticeably improving their performance and relevance.
+* Training automation: I've designed and build an automated training&evaluation pipeline for Flan-T5/Flan-UL2 and LayoutLM models, to enable faster training&feedback cycles for the end-users.
 * Model integration and optimization: I've optimized language models for internal k8s-based serving, streamlining the integration process with various products and services. 4 applications went live to be actively used by stakeholders, more are in development.
 * I've improved prompting for document Q&A specific applications to improve the quality of model responses.
 * Code Optimization: I've taken the initiative to refine the code for T5 model family, particularly by enhancing encoder output caching and supporting larger context lengths. This has resulted in significant improvements in processing efficiency and model performance.
@@ -39,8 +38,6 @@ I play a crucial role in enabling insurance-specific products and product featur
 `2020 - 2021`
 
 *Senior Data Scientist*
-
-Growing team technical excellence and data-driven innovation for multiple insurance-oriented projects in complex a cross-branch environment.
 
 * Gradually introduced a number of technologies and development approaches to enable team's process and product scalability. That resulted in smaller development iterations and more reliable delivery of products.
 * I drove smooth migration of data products from an on-premise infrastructure into the cloud while keeping the services uninterrupted.
@@ -51,9 +48,7 @@ __Flixbus__, Munich
 
 `2017 - 2020`
 
-*Senior data scientist/Product owner*
-
-As the leader of a 6-person Data Science team, I've been instrumental in driving our Marketing Automation domain. I've been responsible for:
+*Senior data scientist/Product owner*, leading 6-people team in marketing automation domain.
 
 * Modeling: I introduced several modeling and conceptual approaches to the team and led implementation of some of them (portfolio forecasting and optimization, multi-actor simulations, bandit algorithms).
 * AI-Driven Solutions: Together with the team, I designed and implemented a large-scale Ad portfolio forecasting and optimization framework, and integrated it into daily operations of digital marketing teams. This contributed to a 15% improvement of marketing ROI.
