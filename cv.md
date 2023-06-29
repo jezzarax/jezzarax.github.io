@@ -17,7 +17,7 @@ Data professional, PhD Candidate in Physics
 
 ## Summary
 
-Data professional with 16 years of hands-on experience specializing in data science, machine learning, data engineering, and enterprise information system development. I'm working on ML-heavy projects since 2016 and for the last 3 years I'm focusing on language modeling. I've applied my in-depth technical knowledge to solve complex problems in insurance and digital marketing domains, using proactive and structured approaches. I have a strong track record in guiding teams through complete product life cycles, from requirements collection to model deployment. As a technologist, my primary focus is on employing cutting-edge data modeling and machine learning techniques to address intricate business challenges. I'm adept at collaborating with both technical and non-technical stakeholders, leveraging agile methodologies for effective project management. I'm currently seeking a technical role in moving the language model technology and engineering forward to be applied in all the aspects of human life.
+Data professional with 16 years of hands-on experience specializing in data science, machine learning, data engineering, and enterprise information system development. I work on ML-heavy projects since 2016 and for the last 3 years I'm focusing on language modeling. I've applied my in-depth technical knowledge to solve complex problems in insurance and digital marketing domains, using proactive and structured approaches. I have a strong track record in guiding teams through complete product life cycles, from requirements collection to model deployment. As a technologist, my primary focus is on employing cutting-edge data modeling and machine learning techniques to address intricate business challenges. I'm adept at collaborating with both technical and non-technical stakeholders, leveraging agile methodologies for effective project management. I'm currently seeking a technical role to contribute to the development of the language model technology and engineering.
 
 
 ## Job history
@@ -55,10 +55,9 @@ __Flixbus__, Munich
 
 As the leader of a 6-person Data Science team, I've been instrumental in driving our Marketing Automation domain. I've been responsible for:
 
-* Product Development Leadership: I successfully led the full cycle of data-enabled adtech product development, from ideation and vision creation to deployment and ongoing improvements. I've facilitated effective communication between our team and stakeholders while managing quality and ensuring efficient time-to-market during decision-making and prioritization processes.
-* AI-Driven Solutions: I excelled in delivering an AI-driven sponsored customer acquisition solution, transforming our business unit from a reactive operation into a strategy and numbers-driven entity. This contributed to a 15% improvement in ROI.
-* Framework Implementation: I introduced a systematic framework for structuring and prioritizing data-driven and AI-driven products, enhancing the efficiency of our product development process.
-* KPIs and Metrics: I played a significant role in defining KPIs and metrics for relevant stakeholders, ensuring these metrics are timed, observable, incremental, and relevant.
+* Modeling: I introduced several modeling and conceptual approaches to the team and led implementation of some of them (portfolio forecasting and optimization, multi-actor simulations, bandit algorithms).
+* AI-Driven Solutions: Together with the team, I designed and implemented a large-scale Ad portfolio forecasting and optimization framework, and integrated it into daily operations of digital marketing teams. This contributed to a 15% improvement of marketing ROI.
+* Framework Implementation: I've introduced and continuously improved a process of reproducible experimentation of the ad portfolio optimization system. It enabled testing of the model improvements in isolation and on a small scale in live system, leading to shortening the model development cycle from several months to 2-3 weeks.
 * Team Building: I actively participated in the hiring process and the definition and implementation of the product team setup, contributing to a well-structured and efficient team.
 * Knowledge Sharing: I've been a speaker for internal and external talks and workshops, raising both technical and domain awareness within the company.
 
@@ -82,7 +81,7 @@ Worked on various public and internal data products for a major international ha
 
 `Development stacks` Python (poetry, fastapi, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Rust development stack (cargo, rocket).
 
-`Language modeling` Huggingface stack, T5x toolset, PyTorch, Jax, Reinforcement learning (world models, multi-agent environments)
+`Language modeling` Huggingface stack, T5x toolset, PyTorch, Reinforcement learning (world models, multi-agent environments)
 
 `Databases&storage` PostgreSQL, MongoDB, Redis, RabbitMQ, Distributed storage (S3, Minio, Azure blob store)
 
@@ -126,7 +125,7 @@ Diploma in physics on the topic of vacuum electrodynamics.
 
 <!-- ### Footer
 
-Last updated: June 2023, written without using LLM -->
+Last updated: June 2023 -->
 
 
 
