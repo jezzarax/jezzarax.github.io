@@ -17,7 +17,7 @@ Data professional, PhD Candidate in Physics
 
 ## Summary
 
-Data professional with 16 years of hands-on experience specializing in data science, machine learning, data engineering, and enterprise information system development. I've applied my in-depth technical knowledge to solve complex problems in fast-paced digital environments in Germany and Russia, using proactive and structured approaches. I have a strong track record in guiding teams through complete product life cycles, from requirements collection to model deployment. As a technologist, my primary focus is on employing cutting-edge data modeling and machine learning techniques to address intricate business challenges. I'm adept at collaborating with both technical and non-technical stakeholders, leveraging agile methodologies for effective project management. I'm currently seeking a role that allows me to further develop and implement innovative data analytics and language-driven decision assistance solutions.
+Data professional with 16 years of hands-on experience specializing in data science, machine learning, data engineering, and enterprise information system development. I'm working on ML-heavy projects since 2016 and for the last 3 years I'm focusing on language modeling. I've applied my in-depth technical knowledge to solve complex problems in insurance and digital marketing domains, using proactive and structured approaches. I have a strong track record in guiding teams through complete product life cycles, from requirements collection to model deployment. As a technologist, my primary focus is on employing cutting-edge data modeling and machine learning techniques to address intricate business challenges. I'm adept at collaborating with both technical and non-technical stakeholders, leveraging agile methodologies for effective project management. I'm currently seeking a technical role in moving the language model technology and engineering forward to be applied in all the aspects of human life.
 
 
 ## Job history
@@ -33,7 +33,8 @@ I play a crucial role in enabling insurance-specific products and product featur
 * Fine-tuning models for specific domains: I've refined and fine-tuned language models to adapt to a particular area of knowledge and vocabulary, noticeably improving their performance and relevance.
 * Model integration and optimization: I've optimized language models for internal k8s-based serving, streamlining the integration process with various products and services. 4 applications went live to be actively used by stakeholders, more are in development.
 * I've improved prompting for document Q&A specific applications to improve the quality of model responses.
-* Code Optimization: I've taken the initiative to refine the code for T5 models, particularly by enhancing encoder output caching and supporting larger context lengths. This has resulted in significant improvements in processing efficiency and model performance.
+* Code Optimization: I've taken the initiative to refine the code for T5 model family, particularly by enhancing encoder output caching and supporting larger context lengths. This has resulted in significant improvements in processing efficiency and model performance.
+* LLM enablement: I develop documentation and materials to let the business stakeholder and technical teams decide for their path to integrate, serve and develop LLMs for their business cases. I run an internal LLM leaderboard, similar to one from huggingface for internal LLMs and benchmarks.
 
 `2020 - 2021`
 
@@ -42,7 +43,7 @@ I play a crucial role in enabling insurance-specific products and product featur
 Growing team technical excellence and data-driven innovation for multiple insurance-oriented projects in complex a cross-branch environment.
 
 * Gradually introduced a number of technologies and development approaches to enable team's process and product scalability. That resulted in smaller development iterations and more reliable delivery of products.
-* Drove smooth migration of data products from an on-premise infrastructure into the cloud while keeping the services uninterrupted.
+* I drove smooth migration of data products from an on-premise infrastructure into the cloud while keeping the services uninterrupted.
 * Developed an MLOps application framework which increased the team velocity by streamligning backlog.
 
 
@@ -139,7 +140,7 @@ Worked on particle accelerator electromagnetic field configuration improvement i
 
 <!-- ### Footer
 
-Last updated: June 2023 -->
+Last updated: June 2023, written without using LLM -->
 
 
 
