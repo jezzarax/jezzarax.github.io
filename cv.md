@@ -67,7 +67,9 @@ __CHECK24__, Munich
 
 
 `2007 - 2014`
-__Apnet LLC (former Amiprint)__, Moscow, *Software developer*, *Technical leader*
+__Apnet LLC (former Amiprint)__, Moscow
+
+*Software developer*, later *Technical leader*
 
 Worked on various public and internal data products for a major international hardware vendor. The deliverables included ETL processes, web dashboards and data management applications deployed on top of Microsoft SQL Server and Microsoft BI Suite. Drove technical processes and excellence in a team of 4 software developers. Introduced continuous integration and testing practices. Improved customer experience by introducing SPA approaches in the product development.
 
@@ -84,7 +86,7 @@ Worked on various public and internal data products for a major international ha
 
 `OPS and Automation` Docker, Ansible, Terraform, Kubernetes, AWS, Debian family of Linux
 
-`Methodologies` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimentation, writing CV without use of LLM
+`Methodologies` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimentation, writing CV without usage of LLMs
 
 `Languages` Russian (native), English (working proficiency), German (intermediate)
 
