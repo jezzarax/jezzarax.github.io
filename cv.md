@@ -17,7 +17,7 @@ Data professional, PhD Candidate in Physics
 
 ## Summary
 
-Expert Data Scientist with 16 years of experience in diverse digital environments in Germany and Russia. I've leveraged my deep understanding of data science, machine learning, and data engineering to solve complex problems and drive efficiency. My proactive and structured approach has led to notable successes, including leading teams of up to 7 members, and consistently delivering high-quality results. I'm well-versed in managing the full process of data modeling, from requirement collection to model deployment. I excel at communicating with both technical and non-technical stakeholders, often using agile methodologies. My goal is to tackle the challenge of developing and delivering innovative data analytics and language-driven decision assistance solutions.
+Data professional with 16 years of hands-on experience specializing in data science, machine learning, data engineering, and enterprise information system development. I've applied my in-depth technical knowledge to solve complex problems in fast-paced digital environments in Germany and Russia, using proactive and structured approaches. I have a strong track record in guiding teams through complete product life cycles, from requirements collection to model deployment. As a technologist, my primary focus is on employing cutting-edge data modeling and machine learning techniques to address intricate business challenges. I'm adept at collaborating with both technical and non-technical stakeholders, leveraging agile methodologies for effective project management. I'm currently seeking a role that allows me to further develop and implement innovative data analytics and language-driven decision assistance solutions.
 
 
 ## Job history
