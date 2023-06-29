@@ -44,7 +44,7 @@ Growing team technical excellence and data-driven innovation for multiple insura
 
 * Gradually introduced a number of technologies and development approaches to enable team's process and product scalability. That resulted in smaller development iterations and more reliable delivery of products.
 * I drove smooth migration of data products from an on-premise infrastructure into the cloud while keeping the services uninterrupted.
-* Developed an MLOps application framework which increased the team velocity by streamligning backlog.
+* Developed an MLOps application framework which increased the team velocity by streamlining backlog.
 
 
 __Flixbus__, Munich
@@ -71,42 +71,28 @@ __CHECK24__, Munich
 * Worked on a migration from Microsoft BI stack to OSS toolset (PostgreSQL, PyData) in order to provide better experience for data science team.
 * Drove an end-to-end development of customer behaviour analysis model (including data acquisition, training process optimization and building an interactive visualization dashboard) that helped the business unit in understanding of customer behaviour, and journey, which paved the path toward experimentation and optimization of it, increasing conversion rates and improving customer experience.
 
-__Apnet LLC (former Amiprint)__, Moscow
 
-`2012 - 2014`
-
-*Technical leader*
-
-`2010 - 2011`
-
-*Software developer*
+`2007 - 2014`
+__Apnet LLC (former Amiprint)__, Moscow, *Software developer*, *Technical leader*
 
 Worked on various public and internal data products for a major international hardware vendor. The deliverables included ETL processes, web dashboards and data management applications deployed on top of Microsoft SQL Server and Microsoft BI Suite. Drove technical processes and excellence in a team of 4 software developers. Introduced continuous integration and testing practices. Improved customer experience by introducing SPA approaches in the product development.
-
-`2007 - 2011`
-__Various companies__, *Software developer*
-
-Worked on internal data products for a major hardware vendor.
-
 
 
 ## Skills
 
-`Databases` PostgreSQL, MongoDB, Redis, Microsoft SQL Server.
-
 `Development stacks` Python (poetry, fastapi, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Rust development stack (cargo, rocket).
 
-`Language modeling` Huggingface stack, T5x, Reinforcement learning (world models, multi-agent environments)
+`Language modeling` Huggingface stack, T5x toolset, PyTorch, Jax, Reinforcement learning (world models, multi-agent environments)
+
+`Databases&storage` PostgreSQL, MongoDB, Redis, RabbitMQ, Distributed storage (S3, Minio, Azure blob store)
 
 `Process tooling` Git, DVC, Jira, Confluence
 
 `OPS and Automation` Docker, Ansible, Terraform, Kubernetes, AWS, Debian family of Linux
 
-`Data technologies` Dask, RabbitMQ, Distributed storage (S3, Minio, Azure blob store)
+`Methodologies` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimentation, writing CV without use of LLM
 
-`Methodologies` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimentation
-
-`Languages` Russian (native), English (working proficiency), German (beginner)
+`Languages` Russian (native), English (working proficiency), German (intermediate)
 
 `Just a fan of` Vim, tmux, zsh, systemd, tabs, rust programming language, game theory
 
