@@ -12,6 +12,7 @@ Data professional, PhD Candidate in Physics
 | <a href="https://www.linkedin.com/in/alexey-kuntsevich">www.linkedin.com/in/alexey-kuntsevich</a>
 | <a href="/blog/">jezzarax.github.io</a>
 | <a href="https://goo.gl/maps/jxpZWvSq8uHwnLBC7">Munich area</a>
+| <a rel="me" href="https://mastodon.social/@jezzarax">Mastodon</a>
 </div>
 
 
