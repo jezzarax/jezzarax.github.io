@@ -29,10 +29,10 @@ Tensorflow for macos will give us extra issues and warnings during the installat
 
 For the sake of exercise, I named my T5x space root directory `t5x_tftext_free` .
 
-	- `mkdir t5x_tftext_free && cd t5x_tftext_free`
-	- `python -m venv ./.venv`
-	- `. ./.venv/bin/activate`
-	- `python -m pip install --upgrade pip`
+- `mkdir t5x_tftext_free && cd t5x_tftext_free`
+- `python -m venv ./.venv`
+- `. ./.venv/bin/activate`
+- `python -m pip install --upgrade pip`
 
 ### Put libraries into your environment
 
