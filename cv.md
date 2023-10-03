@@ -12,7 +12,6 @@ Data professional, PhD Candidate in Physics
 | <a href="https://www.linkedin.com/in/alexey-kuntsevich">www.linkedin.com/in/alexey-kuntsevich</a>
 | <a href="/blog/">jezzarax.github.io</a>
 | <a href="https://goo.gl/maps/jxpZWvSq8uHwnLBC7">Munich area</a>
-| <a rel="me" href="https://mastodon.social/@jezzarax">Mastodon</a>
 </div>
 
 
@@ -79,13 +78,13 @@ Worked on various public and internal data products for a major international ha
 
 `Development stacks` Python (poetry, fastapi, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Rust development stack (cargo, rocket).
 
-`Language modeling` Huggingface stack, T5x toolset, PyTorch, Reinforcement learning (world models, multi-agent environments)
+`Language modeling` Huggingface stack, T5x toolset, PyTorch
 
 `Databases&storage` PostgreSQL, MongoDB, Redis, RabbitMQ, Distributed storage (S3, Minio, Azure blob store)
 
 `Process tooling` Git, DVC, Jira, Confluence
 
-`OPS and Automation` Docker, Ansible, Terraform, Kubernetes, AWS, Debian family of Linux
+`OPS and Automation` Docker, Ansible, Kubernetes, AWS, Debian family of Linux
 
 `Methodologies` Agile from a perspective of a developer and product owner, scientific method, data-driven decision making, value-driven prioritization, A/B experimentation, writing CV without usage of LLMs
 
