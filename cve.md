@@ -119,6 +119,6 @@ Diploma in physics on the topic of vacuum electrodynamics.
 
 <!-- ### Footer
 
-Last updated: June 2023 -->
+Last updated: January 2024 -->
 
 
