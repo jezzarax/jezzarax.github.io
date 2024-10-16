@@ -22,9 +22,21 @@ Data professional with 16 years of hands-on experience specializing in data scie
 
 ## Job history
 
+__Inworld AI__,
+
+`2024 - present`
+
+*Staff ML engineer*
+
+* Development of state-of-the-art, latency-optimized information retrieval pipelines
+* Large scale unstructured data analysis, curation of training and evaluation datasets
+* Improving the quality of long-term human-computer interaction by implementing various memory mechanisms and representations
+* Enabling internationalization support for RAG system
+
+
 __Allianz SE__, 
 
-`2021 - present`
+`2021 - 2024`
 
 *Language model engineer*
 
