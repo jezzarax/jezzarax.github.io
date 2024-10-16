@@ -106,9 +106,9 @@ Worked on various public and internal data products for a major international ha
 `2024`
 __Professional courses__
 
-`Systematically improving RAG applications` [course by Jason Liu and Dan Becker](https://maven.com/certificate/jTMRXNtx)
+[Systematically improving RAG applications](https://maven.com/certificate/jTMRXNtx)
 
-`Mastering LLMs` [course by Dan Becker and Hamel Husain](https://maven.com/certificate/DPYcrXEr)
+[Mastering LLMs](https://maven.com/certificate/DPYcrXEr)
 
 
 
