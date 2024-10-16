@@ -20,7 +20,7 @@ Machine learning engineer, PhD Candidate in Physics
 Data professional with 16 years of hands-on experience specializing in data science, machine learning, data engineering, and enterprise information system development. I work on ML-heavy projects since 2016 and for the last 3 years I'm focusing on language models. I've applied my in-depth technical knowledge to solve complex problems in insurance and digital marketing domains, using proactive and structured approaches. I have a strong track record in supporting teams through complete product life cycles, from requirements collection to model deployment. As a technologist, my primary focus is on employing cutting-edge data modeling and machine learning techniques to address intricate business challenges. I'm currently seeking a technical role to contribute to the development of the language model technology and engineering.
 
 
-## Job history
+## Last 10 years of job history
 
 __Inworld AI__,
 
@@ -78,18 +78,11 @@ __CHECK24__, Munich
 * Drove an end-to-end development of customer behaviour analysis model (including data acquisition, training process optimization and building an interactive visualization dashboard) that helped the business unit in understanding of customer behaviour, and journey, which paved the path toward experimentation and optimization of it, increasing conversion rates and improving customer experience.
 
 
-`2007 - 2014`
-__Apnet LLC (former Amiprint)__, Moscow
-
-*Software developer*, later *Technical leader*
-
-Worked on various public and internal data products for a major international hardware vendor. The deliverables included ETL processes, web dashboards and data management applications deployed on top of Microsoft SQL Server and Microsoft BI Suite. Drove technical processes and excellence in a team of 4 software developers. Introduced continuous integration and testing practices. Improved customer experience by introducing SPA approaches in the product development.
-
 ## Skills
 
 `Development stacks` Python (poetry, fastapi, pytest), PyData stack (pandas, scikit-learn, seaborn, etc), Rust development stack (cargo, rocket).
 
-`Language modeling` Huggingface stack, T5x toolset, PyTorch, llama.cpp
+`Language modeling` Information retrieval methods (RAG, vector search), Huggingface stack, T5x toolset, PyTorch, llama.cpp
 
 `Databases&storage` PostgreSQL, MongoDB, Redis, RabbitMQ, Distributed storage (S3, Minio, Azure blob store)
 
@@ -133,14 +126,12 @@ Diploma in physics on the topic of vacuum electrodynamics. MSc equivalent in Ele
 
 `MCP` Multiple Microsoft certifications on SQL Server (development, administration, BI suite) and .NET development
 
-`Sun microsystems` SCWCD, SCBCD, SCJP
-
 `PostgreSQL` Certified PostgreSQL associate
 
 
 
 <!-- ### Footer
 
-Last updated: January 2024 -->
+Last updated: October 2024 -->
 
 
