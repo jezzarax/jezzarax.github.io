@@ -103,6 +103,15 @@ Worked on various public and internal data products for a major international ha
 
 ## Education
 
+`2024`
+__Professional courses__
+
+`Systematically improving RAG applications` [course by Jason Liu and Dan Becker](https://maven.com/certificate/jTMRXNtx)
+
+`Mastering LLMs` [course by Dan Becker and Hamel Husain](https://maven.com/certificate/DPYcrXEr)
+
+
+
 `2012 - 2017`
 __Nizhny Novgorod State university__
 
@@ -117,10 +126,6 @@ Diploma in physics on the topic of vacuum electrodynamics. MSc equivalent in Ele
 
 
 ## Certificates
-
-`Systematically improving RAG applications` [course by Jason Liu and Dan Becker](https://maven.com/certificate/jTMRXNtx)
-
-`Mastering LLMs` [course by Dan Becker and Hamel Husain](https://maven.com/certificate/DPYcrXEr)
 
 `AWS` Solution architect - Professional
 
