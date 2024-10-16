@@ -113,20 +113,25 @@ Worked on particle accelerator electromagnetic field configuration improvement i
 `2003 - 2009`
 __Nizhny Novgorod State university__
 
-Diploma in physics on the topic of vacuum electrodynamics.
+Diploma in physics on the topic of vacuum electrodynamics. MSc equivalent in Electrical Engineering (U.S. evaluation).
 
 
 ## Certificates
 
-`CSPO` Certified Scrum product owner, 2019-2022.
+`Systematically improving RAG applications` [course by Jason Liu and Dan Becker](https://maven.com/certificate/jTMRXNtx)
+
+`Mastering LLMs` [course by Dan Becker and Hamel Husain](https://maven.com/certificate/DPYcrXEr)
 
 `AWS` Solution architect - Professional
+
+`CSPO` Certified Scrum product owner, 2019-2022.
 
 `MCP` Multiple Microsoft certifications on SQL Server (development, administration, BI suite) and .NET development
 
 `Sun microsystems` SCWCD, SCBCD, SCJP
 
 `PostgreSQL` Certified PostgreSQL associate
+
 
 
 <!-- ### Footer
