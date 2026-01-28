@@ -31,8 +31,8 @@ KRaft needs a formatted metadata log. Clear any old data (I had it from previous
 ```bash
 sudo rm -rf /opt/homebrew/var/lib/kraft-dev-logs
 sudo mkdir -p /opt/homebrew/var/lib/kraft-dev-logs
-CLUSTER_ID=$(/opt/homebrew/Cellar/kafka/4.1.1/bin/kafka-storage random-uuid)
-sudo /opt/homebrew/Cellar/kafka/4.1.1/bin/kafka-storage format \
+CLUSTER_ID=$(kafka-storage random-uuid)
+sudo kafka-storage format \
   --cluster-id "$CLUSTER_ID" \
   --config /opt/homebrew/etc/kafka/server.properties
 ```
@@ -51,6 +51,23 @@ kafka-topics --bootstrap-server localhost:19092 --create --topic test
 kafka-console-producer --broker-list localhost:19092 --topic test
 kafka-console-consumer --bootstrap-server localhost:19092 --topic test --from-beginning
 ```
+
+## Wiping data
+
+In dev environment it's needed quite frequently:
+
+- Client-side cleanup (keeps cluster ID and controller metadata):  
+  ```bash
+  kafka-topics --bootstrap-server localhost:19092 --list | grep -v '^__' | xargs -I{} kafka-topics --bootstrap-server localhost:19092 --delete --topic {}
+  kafka-consumer-groups --bootstrap-server localhost:19092 --list | xargs -I{} kafka-consumer-groups --bootstrap-server localhost:19092 --delete --group {}
+  ```
+- Full reset (fresh cluster ID, everything gone): stop Kafka, then  
+  ```bash
+  sudo rm -rf /opt/homebrew/var/lib/kraft-dev-logs && sudo mkdir -p /opt/homebrew/var/lib/kraft-dev-logs
+  CLUSTER_ID=$(kafka-storage random-uuid)
+  sudo kafka-storage format --cluster-id "$CLUSTER_ID" --config /opt/homebrew/etc/kafka/server.properties
+  ```
+  start again with `kafka-server-start /opt/homebrew/etc/kafka/server.properties`.
 
 ## Notes
 - No ZooKeeper is involved; 4.1 ships KRaft-only by default, extra complexity (especially for local dev setup) is gone.
