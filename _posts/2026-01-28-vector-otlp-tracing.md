@@ -1,13 +1,19 @@
 ---
 layout: post
-title: WIP: Vector OTLP tracing for Codex CLI, Claude Code, and more
+title: "WIP: Vector OTLP tracing for Codex CLI, Claude Code, and more"
 date: 2026-01-28
 description: Quick notes on capturing OTLP logs, traces, and metrics with Vector.
 tags: [observability, otlp, vector, codex, claude]
 ---
 
-WIP note: I'm setting up Vector as a local OTLP sink for CLI tools. I plan to
-add more configurability for other tools and explore the data format in a bit.
+WIP note: The goal is to track coding model interactions so I can annotate good
+vs bad ones and use that data to improve coding CLIs and models over time; I'm
+using Vector as a local OTLP sink for CLI tools. I plan to add more
+configurability for other tools and explore the data format in a bit. There are
+existing tools for this (e.g., `https://langfuse.com`,
+`https://phoenix.arize.com`), but I want a lightweight, single-tool setup that
+captures all traces and stores them as compressed JSONL for later analysis
+instead of standing up a larger stack.
 
 <!--more-->
 
